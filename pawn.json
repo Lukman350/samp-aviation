@@ -8,7 +8,7 @@
 		"pawn-lang/YSI-Includes",
 		"sampctl/rotations.inc",
 		"Y-Less/sscanf:2.10.2-r2",
-		"Zeex/samp-plugin-crashdetect:v4.20",
+		"Y-Less/samp-plugin-crashdetect:v4.21",
 		"Southclaws/zcmd",
 		"ScavengeSurvive/mathutil"
 	],

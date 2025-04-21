@@ -7,7 +7,7 @@
 		"sampctl/samp-stdlib",
 		"pawn-lang/YSI-Includes",
 		"sampctl/rotations.inc",
-		"Y-Less/sscanf:2.10.2-r2",
+		"Y-Less/sscanf:v2.13.8",
 		"Y-Less/samp-plugin-crashdetect:v4.21",
 		"Southclaws/zcmd",
 		"ScavengeSurvive/mathutil"

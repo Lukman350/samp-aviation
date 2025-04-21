@@ -5,11 +5,11 @@
 	"output": "test.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib",
-		"pawn-lang/YSI-Includes",
+		"pawn-lang/YSI-Includes@5.x",
 		"sampctl/rotations.inc",
 		"Y-Less/sscanf:v2.13.8",
 		"Y-Less/samp-plugin-crashdetect:v4.21",
-		"Southclaws/zcmd",
+		"Southclaws/zcmd@master",
 		"ScavengeSurvive/mathutil"
 	],
 	"build": {
